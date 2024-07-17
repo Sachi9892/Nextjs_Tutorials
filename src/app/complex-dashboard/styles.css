@@ -1,0 +1,13 @@
+.dashboard-container {
+    display: flex;
+}
+
+.dashboard-column {
+    display: flex;
+    flex-direction: column;
+}
+
+.notification {
+    display: flex;
+    flex: 1;
+}
