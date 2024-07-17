@@ -1,7 +1,6 @@
 /**
  * 
- * @example - as sometime we need to group routes but the by default we need to use
- * folder name in url to avoid such condition define name of the folder in ( )
+ * @example - route name specified in () will be ignored by the next js
  */
 
 export default function loginPage() {
